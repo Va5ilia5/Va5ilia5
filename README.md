@@ -17,6 +17,6 @@
 
 <br />
 <br />
-Welcome <img src="<iframe src="https://giphy.com/embed/MAWKf4CcnrwBk4tsr9" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/spin-spinner-fidget-MAWKf4CcnrwBk4tsr9">via GIPHY</a></p>" width="50">
+Welcome <img src="https://giphy.com/embed/MAWKf4CcnrwBk4tsr9">via GIPHY</a></p>" width="50">
 
 I'm a third-year undergraduate student at VIT, Vellore pursuing B.Tech in Computer Science and Engineering. I'm experienced in building scalable Machine learning models and Artificial Intelligence algorithms. My research aims to combine deep learning and real-world applications to develop scalable automatic tools for scientific discovery. My area of interest in research is GANs, Swarm intelligence, Biomedical Imaging, Federated learning, and Adversarial ML. I'm also a blockchain developer with experience in smart contract development, hyperledger framework, and MEVs. I also have experience in community building and organizing events in Blockchain.
