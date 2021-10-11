@@ -14,12 +14,12 @@ I'm a third-year undergraduate student at VIT, Vellore pursuing B.Tech in Comput
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
-![sql](https://img.shields.io/static/v1?logo=sql&label=&message=sql&color=111&logoColor=AAA&style=flat-square)
+![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=mysql&color=111&logoColor=AAA&style=flat-square)
 ![r](https://img.shields.io/static/v1?logo=r&label=&message=r&color=111&logoColor=AAA&style=flat-square)
 ![scala](https://img.shields.io/static/v1?logo=scala&label=&message=scala&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
-![kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=kubernetes&color=111&logoColor=AAA&style=flat-square)
+![tableau](https://img.shields.io/static/v1?logo=tableau&label=&message=tableau&color=111&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 ![spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=spark&color=111&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
