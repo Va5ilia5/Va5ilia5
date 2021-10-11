@@ -22,5 +22,5 @@ I'm a third-year undergraduate student at VIT, Vellore pursuing B.Tech in Comput
 ![tableau](https://img.shields.io/static/v1?logo=tableau&label=&message=tableau&color=111&logoColor=AAA&style=flat-square)
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 ![spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=spark&color=111&logoColor=AAA&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
+![PowerBI](https://img.shields.io/static/v1?logo=PowerBI&label=&message=PowerBI&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
