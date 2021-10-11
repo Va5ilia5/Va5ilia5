@@ -1,7 +1,7 @@
 
 
 
-## Welcome  <img src="https://media.giphy.com/media/GItotjsPduU6NbheCG/giphy.gif" width="30">
+## Welcome  <img src="https://media.giphy.com/media/1mhjoh17P9oBJzcjSF/giphy.gif" width="30">
 I'm a third-year undergraduate student at VIT, Vellore pursuing B.Tech in Computer Science and Engineering. I'm experienced in building scalable Machine learning models and Artificial Intelligence algorithms. My research aims to combine deep learning and real-world applications to develop scalable automatic tools for scientific discovery. My area of interest in research is GANs, Swarm intelligence, Biomedical Imaging, Federated learning, and Adversarial ML. I'm also a blockchain developer with experience in smart contract development, hyperledger framework, and MEVs. I also have experience in community building and organizing events in Blockchain.
 <br>
 
