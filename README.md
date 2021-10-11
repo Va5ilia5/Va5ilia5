@@ -4,7 +4,7 @@
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
-![go](https://img.shields.io/static/v1?logo=go&label=&message=golang&color=111&logoColor=AAA&style=flat-square)
+![sql](https://img.shields.io/static/v1?logo=sql&label=&message=sql&color=111&logoColor=AAA&style=flat-square)
 ![r](https://img.shields.io/static/v1?logo=r&label=&message=r&color=111&logoColor=AAA&style=flat-square)
 ![scala](https://img.shields.io/static/v1?logo=scala&label=&message=scala&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
@@ -17,6 +17,6 @@
 
 <br />
 <br />
-#Welcome <img src="https://media.giphy.com/media/MAWKf4CcnrwBk4tsr9/giphy.gif" width="40">
+# Welcome <img src="https://media.giphy.com/media/MAWKf4CcnrwBk4tsr9/giphy.gif" width="40">
 
 I'm a third-year undergraduate student at VIT, Vellore pursuing B.Tech in Computer Science and Engineering. I'm experienced in building scalable Machine learning models and Artificial Intelligence algorithms. My research aims to combine deep learning and real-world applications to develop scalable automatic tools for scientific discovery. My area of interest in research is GANs, Swarm intelligence, Biomedical Imaging, Federated learning, and Adversarial ML. I'm also a blockchain developer with experience in smart contract development, hyperledger framework, and MEVs. I also have experience in community building and organizing events in Blockchain.
