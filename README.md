@@ -1,6 +1,6 @@
 
 
-  <img src="https://media.giphy.com/media/ibXW0RPKgrtHgxg8gV/giphy.gif" width="30">/t ## Welcome
+   ## Welcome <img src="https://media.giphy.com/media/ibXW0RPKgrtHgxg8gV/giphy.gif" width="30" float: left>
 Self-motivated and results-oriented IT professional with extensive experience using statistical modelling, machine learning, and data analytics to assure success and meet objectives. Strong industry knowledge in health care, finance, and consulting. In complicated organisational frameworks, demonstrated success in establishing and executing plans. Recognized for maximising performance through proper project management, quality control, and an awareness of emerging technology. I'm experienced in building scalable Machine learning models and Artificial Intelligence algorithms. My research aims to combine deep learning and real-world applications to develop scalable automatic tools for scientific discovery.
 <br>
 
