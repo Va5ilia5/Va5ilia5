@@ -9,7 +9,7 @@ Self-motivated and results-oriented IT professional with extensive experience us
 
 
   
-### Languages and Tools: <img src="https://media.giphy.com/media/ibXW0RPKgrtHgxg8gV/giphy.gif" width="30"> 
+### Languages and Tools: 
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
@@ -24,7 +24,7 @@ Self-motivated and results-oriented IT professional with extensive experience us
 ![PowerBI](https://img.shields.io/static/v1?logo=PowerBI&label=&message=PowerBI&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 
- ## Summary <img src="https://media.giphy.com/media/ibXW0RPKgrtHgxg8gV/giphy.gif" width="30">
+ ### Summary <img src="https://media.giphy.com/media/ibXW0RPKgrtHgxg8gV/giphy.gif" width="30">
 - 🔭 I’m currently working on Deep Learning research projects.
 - 👯 I’m looking to collaborate on research papers related to GANs, Swarm intelligence, Biomedical Imaging, Federated learning, and Adversarial ML.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/boysenmutembwa/) , [Email](Boysenjr@gmail.com)
