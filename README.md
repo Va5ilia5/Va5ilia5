@@ -16,6 +16,8 @@ Self-motivated and results-oriented IT professional with extensive experience us
 ![mysql](https://img.shields.io/static/v1?logo=mysql&label=&message=mysql&color=111&logoColor=AAA&style=flat-square)
 ![r](https://img.shields.io/static/v1?logo=r&label=&message=r&color=111&logoColor=AAA&style=flat-square)
 ![scala](https://img.shields.io/static/v1?logo=scala&label=&message=scala&color=111&logoColor=AAA&style=flat-square)
+![html](https://img.shields.io/static/v1?logo=html&label=&message=html&color=111&logoColor=AAA&style=flat-square)
+![css](https://img.shields.io/static/v1?logo=css&label=&message=css&color=111&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
 ![tableau](https://img.shields.io/static/v1?logo=tableau&label=&message=tableau&color=111&logoColor=AAA&style=flat-square)
